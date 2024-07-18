@@ -1,0 +1,52 @@
+Mousse de Chocolate: chocolate meio amargo, creme de leite fresco, ovos, açúcar, manteiga
+Bolo de Cenoura: cenoura, ovos, óleo, açúcar, farinha de trigo, fermento em pó
+Pudim de Leite: leite condensado, leite, ovos
+Lasanha de Carne: massa de lasanha, carne moída, molho de tomate, queijo mussarela, queijo parmesão
+Panqueca de Frango: frango desfiado, molho de tomate, queijo mussarela, farinha de trigo, leite, ovos
+Sopa de Legumes: batata, cenoura, abobrinha, chuchu, cebola, alho, caldo de legumes
+Risoto de Funghi: arroz arbóreo, cogumelos funghi secos, vinho branco, caldo de legumes, queijo parmesão
+Feijoada Completa: feijão preto, carne seca, linguiça calabresa, bacon, cebola, alho, louro
+Salada Caesar: peito de frango, alface romana, croutons, queijo parmesão, molho Caesar
+Pão de Queijo: polvilho doce, queijo meia cura, leite, óleo, ovos
+Coxinha: frango, caldo de galinha, farinha de trigo, ovos, água, leite, manteiga
+Brigadeiro: leite condensado, chocolate em pó, manteiga, granulado
+Quiche Lorraine: massa quebrada, bacon, queijo gruyère, creme de leite, ovos
+Ratatouille: berinjela, abobrinha, pimentão vermelho, tomate, cebola, alho
+Tiramisu: queijo mascarpone, café forte, vinho marsala, biscoitos tipo ladyfinger, cacau em pó
+Molho Pesto: manjericão, queijo parmesão, castanha-de-caju, alho, azeite
+Ravioli de Queijo: massa para ravioli, queijo ricota, noz-moscada, manteiga
+Sushi: arroz para sushi, alga nori, peixe fresco, pepino, abacate, molho de soja
+Ceviche: peixe branco, limão, cebola roxa, coentro, pimenta dedo-de-moça, sal
+Strogonoff de Frango: peito de frango, creme de leite, ketchup, mostarda, champignon, cebola
+Empadão de Frango: peito de frango, massa folhada, requeijão cremoso, azeitonas, cebola
+Mousse de Maracujá: polpa de maracujá, creme de leite, leite condensado, gelatina incolor
+Espaguete à Carbonara: espaguete, ovos, queijo parmesão, pancetta ou bacon, pimenta-do-reino
+Bife à Parmegiana: filé de carne bovina, queijo muçarela, molho de tomate, parmesão ralado
+Pavê de Chocolate: bolacha maisena, creme de leite, leite condensado, chocolate em pó, chantilly
+Cuscuz Paulista: sardinha, farinha de milho, ovos, azeitonas, tomate, cebola, palmito
+Baião de Dois: arroz, feijão verde, queijo coalho, carne de sol, cebola, alho, coentro
+Canjica: milho para canjica, leite, leite condensado, amendoim, canela em pau, cravo-da-índia
+Farofa de Banana: farinha de mandioca, banana, manteiga, cebola, bacon, salsa
+Pizza Margherita: massa de pizza, molho de tomate, queijo muçarela, manjericão, azeite
+Coxinha de Frango com Catupiry: frango, catupiry, caldo de galinha, farinha de trigo, ovos, água, leite, manteiga
+Pastel de Feira: massa de pastel, carne moída, queijo muçarela, tomate, cebola, salsinha
+Moqueca Baiana: peixe, camarão, leite de coco, azeite de dendê, tomate, pimentão, coentro
+Arroz Carreteiro: arroz, carne de charque, linguiça calabresa, cebola, alho, tomate, salsinha
+Torta de Frango: frango desfiado, massa de torta, requeijão cremoso, milho verde, azeitona, cebola
+Bacalhoada: bacalhau, batata, cebola, tomate, pimentão, azeite, azeitonas, ovos cozidos
+Bolinho de Bacalhau: bacalhau, batata, cebola, salsa, ovo, pimenta-do-reino
+Frango à Passarinho: frango cortado à passarinho, alho, limão, sal, óleo, pimenta calabresa
+Salada de Maionese: batata, maionese, cenoura, ervilha, milho, presunto, ovos cozidos
+Bobó de Camarão: camarão, aipim (mandioca), leite de coco, dendê, pimentão, tomate, coentro
+Pão Francês: farinha de trigo, fermento biológico, água, sal
+Feijão Tropeiro: feijão, farinha de mandioca, linguiça calabresa, bacon, ovos, cebola, alho, couve
+Beijinho de Coco: leite condensado, coco ralado, manteiga
+Churrasco de Picanha: picanha, sal grosso, carvão vegetal
+Torta de Limão: leite condensado, creme de leite, suco de limão, biscoito maisena, manteiga
+Bife à Rolê: bife bovino, cenoura, bacon, cebola, alho, palitos de dente
+Caldo Verde: batata, couve, linguiça calabresa, alho, azeite, sal
+Macarrão à Carbonara: macarrão, ovos, queijo parmesão, pancetta ou bacon, pimenta-do-reino
+Sopa de Cebola: cebola, manteiga, farinha de trigo, caldo de carne, queijo gruyère, pão francês
+teste: testet
+Receita teste: ingrediente1, ingrediente2 
+a: a 
